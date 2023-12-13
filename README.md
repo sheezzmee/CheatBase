@@ -1,14 +1,10 @@
 # CheatBase
 
-## Описание проекта
-
-CheatBase - набор читов и инструментов, которые помогут вам раскрыть полный потенциал виртуального мира и сделать ваши игровые сессии более увлекательными.
-
 ## Авторы
 
 **sheezzmee**, **sabaka_babaka**
 
-Дискорд сервер: https://discord.gg/8TSPw9akzp - здесь будут размещаться готовые скрипты
+Дискорд сервер: https://discord.gg/gMAJX2AdBS - здесь будут размещаться готовые скрипты
 
 ## Основные функции
 
@@ -198,7 +194,7 @@ Player/
 
 1. **Установка Tampermonkey:** https://www.tampermonkey.net/
 
-2. **Установка скрипта:** скоро
+2. **Установка чит-базы:** [click](https://raw.githubusercontent.com/sheezzmee/CheatBase/main/cheatBase.user.js)
 
 3. **Создание скрипта**:
 
