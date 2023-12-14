@@ -192,7 +192,7 @@ Player/
 
 ## Как начать использовать
 
-1. **Установка Tampermonkey:** https://www.tampermonkey.net/
+1. **Установка Tampermonkey (^5.0.0):** https://www.tampermonkey.net/
 
 2. **Установка чит-базы:** [click](https://raw.githubusercontent.com/sheezzmee/CheatBase/main/cheatBase.user.js)
 
