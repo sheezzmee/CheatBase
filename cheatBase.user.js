@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name             Cheat Base
 // @author           sheezzmee, sabaka-babaka
-// @version          1.0.0
+// @version          1.0.1
 
 // @author-discord   sheezzmee, sabaka_babaka, https://discord.gg/gMAJX2AdBS
 
